@@ -1,0 +1,29 @@
+/*  
+Author: michelle 
+File Name: styles.css
+Date: 11/06/2023
+*/
+
+/* css Reset */
+body, header, nav, main, footer, img, h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* images */
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* header */
+header {
+    text-align: center;
+    font-size: 3em;
+    color: #373684;
+}
+ 
+header h1 {
+   font-style: italic;
+}
